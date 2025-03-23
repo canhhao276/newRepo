@@ -13,6 +13,10 @@ void tich(int n){
     }
     cout <<dem;
 }
+
+int tong(int a, int b){
+    return a + b;
+}
 int main(){
     int n;
     cin >>n;
