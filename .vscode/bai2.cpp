@@ -17,6 +17,11 @@ void tich(int n){
 int tong(int a, int b){
     return a + b;
 }
+
+int hieu(int a, int b){
+    return a - b;
+}
+
 int main(){
     int n;
     cin >>n;
