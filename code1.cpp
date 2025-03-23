@@ -10,5 +10,6 @@ int main(){
         s += i;
     }
     cout <<s<< endl;
+    cout << s << endl;
     return 0;
 }
